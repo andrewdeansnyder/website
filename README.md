@@ -5,7 +5,7 @@
   - Mobile: 734-834-5941
   - Location: Ann Arbor, MI
   - <a href="Andrew_Snyder.pdf" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Icon_pdf.svg/320px-Icon_pdf.svg.png"></a>
-- ![](avatar-man.jpg)
+- ![](Andy.jpg)
 
 ## Objective
 
