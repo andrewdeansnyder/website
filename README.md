@@ -1,4 +1,4 @@
-# Andrew D Snyder (Andy)
+# Andrew D Snyder
 
 - 
   - [ndsnyder@umich.edu](mailto:ndsnyder@umich.edu)
