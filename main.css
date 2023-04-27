@@ -65,9 +65,11 @@ p {
 
 a.linked-in {
     display: flex;
+    margin: 3px 0;
+    text-decoration: none;
 }
 
 #main a.linked-in img {
     border-radius: unset;
-    height: 24px;
+    height: 28px;
 }
