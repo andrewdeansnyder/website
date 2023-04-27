@@ -62,3 +62,12 @@ p {
     margin-right: 6px;
     max-height: 24px;
 }
+
+a.linked-in {
+    display: flex;
+}
+
+a.linked-in img {
+    border-radius: unset;
+    height: 24px;
+}
