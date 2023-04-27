@@ -67,7 +67,7 @@ a.linked-in {
     display: flex;
 }
 
-a.linked-in img {
+#main a.linked-in img {
     border-radius: unset;
     height: 24px;
 }
